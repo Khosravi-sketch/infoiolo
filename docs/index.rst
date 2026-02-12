@@ -1,11 +1,9 @@
-Welcome to My Documentation
-===========================
+Welcome to InfoIolo Documentation
+=================================
 
-.. toctree::
-   :maxdepth: 2
-
-   sample
+General Index
+=============
 
 .. raw:: html
 
-   <meta http-equiv="refresh" content="0; url=genindex.html" />
+   <iframe src="genindex.html" width="100%" height="800px" style="border:none;"></iframe>
